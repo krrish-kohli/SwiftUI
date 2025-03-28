@@ -4,7 +4,7 @@ Submitted by: **Krrish Kohli**
 
 **Promesceus** is an app that... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **1.5** hours spent in total
 
 ## Required Features
 
